@@ -1,7 +1,7 @@
 lxml==4.9.2
 pyquery==1.4.1
 # cloudscraper==1.2.71
-requests==2.32.2
+requests==2.32.4
 beautifulsoup4==4.9.3
 Pillow==10.3.0
 # 5.15.6 stuck on m1 Ventura 13.5, 5.15.10 is fine
